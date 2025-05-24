@@ -1,0 +1,1 @@
+Tema ovog projekta je implementacija sustava za automatizaciju procesa u Security Operations Centru (SOC) koristeći alate Wazuh, TheHive i Shuffle. Cilj ovog rada je detaljno opisati korake povezivanja ovih alata putem clouda te objasniti kako se kroz njih realizira obrada sigurnosnih događaja.
